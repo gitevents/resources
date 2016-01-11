@@ -1,0 +1,39 @@
+{
+  "name": "gitevents-resources",
+  "version": "1.0.0",
+  "description": "Gitevents resources such as logos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iancrowther/gitevents-resources.git"
+  },
+  "author": "Ian Crowther <ian@nexttick.io> (http://nexttick.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iancrowther/gitevents-resources/issues"
+  },
+  "homepage": "https://github.com/iancrowther/gitevents-resources#readme",
+  "contributors": [
+    {
+      "name": "Patrick Heneise",
+      "email": null,
+      "url": "https://github.com/PatrickHeneise",
+      "contributions": 1,
+      "additions": 1,
+      "deletions": 0,
+      "hireable": true
+    },
+    {
+      "name": "Ian Crowther",
+      "email": "ian@nexttick.io",
+      "url": "https://github.com/iancrowther",
+      "contributions": 2,
+      "additions": 23,
+      "deletions": 1,
+      "hireable": true
+    }
+  ]
+}
